@@ -1,0 +1,7 @@
+C:\Users\bvenk\desktop\devops\new\devopswebapp\Publish\devopswebapp.exe
+C:\Users\bvenk\desktop\devops\new\devopswebapp\Publish\appsettings.Development.json
+C:\Users\bvenk\desktop\devops\new\devopswebapp\Publish\appsettings.json
+C:\Users\bvenk\desktop\devops\new\devopswebapp\Publish\devopswebapp.dll
+C:\Users\bvenk\desktop\devops\new\devopswebapp\Publish\devopswebapp.deps.json
+C:\Users\bvenk\desktop\devops\new\devopswebapp\Publish\devopswebapp.runtimeconfig.json
+C:\Users\bvenk\desktop\devops\new\devopswebapp\Publish\devopswebapp.pdb
